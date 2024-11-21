@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\Desktop\c_hw_1121\6_24\main.cpp(13,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  6_24.vcxproj -> C:\Users\User\Desktop\c_hw_1121\6_24\x64\Debug\6_24.exe
